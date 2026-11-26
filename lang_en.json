@@ -1,0 +1,21 @@
+{
+  "surnames_m": ["Smith","Johnson","Brown","Taylor","Wilson","Davis","Clark","Walker","Hall","Young","King","Wright","Green","Baker","Adams","Nelson","Hill","Carter","Mitchell","Turner"],
+  "names_m": ["James","John","Robert","Michael","William","David","Richard","Thomas","Charles","Daniel","Matthew","Andrew","Joseph","Edward","Brian","Kevin","Steven","Timothy","Jason","George"],
+  "patr_m": ["Alan","Bruce","Carl","Dean","Earl","Frank","Grant","Henry","Ivan","Jack","Karl","Louis","Mark","Neil","Owen","Paul","Quinn","Ross","Sean","Todd"],
+  "surnames_f": ["Smith","Johnson","Brown","Taylor","Wilson","Davis","Clark","Walker","Hall","Young","King","Wright","Green","Baker","Adams","Nelson","Hill","Carter","Mitchell","Turner"],
+  "names_f": ["Mary","Anna","Emma","Olivia","Alice","Grace","Chloe","Daisy","Elena","Fiona","Helen","Iris","Julia","Karen","Laura","Megan","Nina","Opal","Paula","Rosa"],
+  "patr_f": ["Ann","Belle","Claire","Diane","Elise","Faye","Gail","Hope","Irene","Jane","Kate","Lynn","Mae","Nell","Olive","Pearl","Quinn","Ruth","Sue","Tess"],
+  "veg_adj": {
+    "apple":"apple","cherry":"cherry","plum":"plum","peach":"peach","apricot":"apricot",
+    "lemon":"lemon","orange":"orange","banana":"banana","mango":"mango","melon":"melon",
+    "berry":"berry","grape":"grape","pear":"pear","lime":"lime","kiwi":"kiwi","fig":"fig",
+    "olive":"olive","carrot":"carrot","onion":"onion","garlic":"garlic","pepper":"pepper",
+    "tomato":"tomato","potato":"potato","cabbage":"cabbage","pumpkin":"pumpkin",
+    "cucumber":"cucumber","radish":"radish","beet":"beet","celery":"celery","ginger":"ginger",
+    "mint":"mint","basil":"basil","dill":"dill","parsley":"parsley","spinach":"spinach",
+    "avocado":"avocado","coconut":"coconut","papaya":"papaya","guava":"guava","lychee":"lychee",
+    "quince":"quince","mulberry":"mulberry","raspberry":"raspberry","strawberry":"strawberry",
+    "blueberry":"blueberry","cranberry":"cranberry","gooseberry":"gooseberry","blackberry":"blackberry"
+  },
+  "email_domains": ["mail.example.com","post.example.com","inbox.example.com"]
+}
