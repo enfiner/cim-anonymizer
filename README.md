@@ -17,7 +17,7 @@ python run.py input.xml output.xml --db mappings.db
 python run.py --validate input.xml output.xml
 
 ## Обработанная модель
-Ссылка на обработанную модель: https://drive.google.com/file/d/17QO6FLnvawzVUOyIOHL3Suc1LfFU1W1R/view?usp=sharing
+Ссылка на обработанную модель: https://drive.google.com/file/d/1_9u6gcKREKz_NfzxNZ1zIV-EisgzQGHu/view?usp=sharing
 
 
 ## Команда
